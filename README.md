@@ -6,7 +6,7 @@ Game developer
 
 * 🌍  I'm based in Catalonia
 * 🖥️  See my portfolio at [Itchio](http://noeliusmax.itch.io/)
-* ✉️  You can contact me at [noelgarciapou@gmail.com](mailto:noelgarciapou@gmail.com)
+* ✉️  You can contact me at [noel.gp.business@gmail.com](mailto:noel.gp.business@gmail.com)
 * 🚀  I'm currently working on [Spell Rush](http://super-pointy-games.itch.io/spell-rush)
 * 🧠  I'm currently studying Computer Engineering at the University of Barcelona
 
